@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Spanners]]></title>
-        <description><![CDATA[Spanners]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[SPANNERS]]></title>
+        <description><![CDATA[SPANNERS]]></description>
+        <link>https://thegrid.ai/spanners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 04 Jan 2016 16:48:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 04 Jan 2016 17:11:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/spanners/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/31e70e01-5684-48b3-9ad3-4ab0fe3700b9.jpg">]]></description>
+            <link>https://thegrid.ai/spanners/539dbced-e9ae-4275-9d0b-1ec292cafa97/index.html</link>
+            <guid isPermaLink="false">539dbced-e9ae-4275-9d0b-1ec292cafa97</guid>
+            <pubDate>Mon, 04 Jan 2016 17:10:52 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/07b66923-b6a9-4082-b244-aa935e6d1172.jpg">]]></description>
-            <link>undefined95fa9639-8fbe-4c92-80ce-eaca67d37105/index.html</link>
+            <link>https://thegrid.ai/spanners/95fa9639-8fbe-4c92-80ce-eaca67d37105/index.html</link>
             <guid isPermaLink="false">95fa9639-8fbe-4c92-80ce-eaca67d37105</guid>
             <pubDate>Mon, 04 Jan 2016 16:48:53 GMT</pubDate>
         </item>
