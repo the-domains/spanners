@@ -1,0 +1,28 @@
+name: Spanners
+favicon: null
+layout_spectrum: 0.8967777267098427
+typography_spectrum: 0.854229396674782
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.36694968747906387
+  lightness: 0.39418291742913425
+  saturation: 0.9589072798844427
+  rhythmicContrast: 0.9584353829268366
+purpose: []
