@@ -4,7 +4,7 @@
         <description><![CDATA[Spanners in the Works]]></description>
         <link>https://thegrid.ai/spanners/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 18:34:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 18:35:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/spanners/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The first post]]></title>
@@ -19,13 +19,6 @@
             <link>https://thegrid.ai/spanners/539dbced-e9ae-4275-9d0b-1ec292cafa97/index.html</link>
             <guid isPermaLink="false">539dbced-e9ae-4275-9d0b-1ec292cafa97</guid>
             <pubDate>Wed, 31 Aug 2016 17:38:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>“You just throw stuff in,” Dan Tocchini, chief executive and a cofounder of The Grid, told VentureBeat in an exclusive interview. “You don’t worry about what comes out through the other end.”</p>]]></description>
-            <link>https://thegrid.ai/spanners/you-just-throw-stuff-in-dan-tocchini-chief-executive-and/index.html</link>
-            <guid isPermaLink="false">dbb1b63b-f831-405b-b6e3-f36c6fd97c35</guid>
-            <pubDate>Mon, 04 Jan 2016 17:33:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
