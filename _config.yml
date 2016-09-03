@@ -28,6 +28,9 @@ navigation:
   - name: Second Link !!!
     id: 539dbced-e9ae-4275-9d0b-1ec292cafa97
     type: content
+  - name: The first post
+    id: 95fa9639-8fbe-4c92-80ce-eaca67d37105
+    type: content
 favicon: null
 title: Spanners in the Works
 purpose: []
