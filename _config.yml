@@ -31,6 +31,9 @@ navigation:
   - name: The first post
     id: 95fa9639-8fbe-4c92-80ce-eaca67d37105
     type: content
+  - name: test
+    id: dbb1b63b-f831-405b-b6e3-f36c6fd97c35
+    type: content
 favicon: null
 title: Spanners in the Works
 purpose: []
